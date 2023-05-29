@@ -106,15 +106,15 @@ p {
   }
   
   h1 {
-    font-size: 24px;
+    font-size: 28px;
   }
   
   h2 {
-    font-size: 20px;
+    font-size: 24px;
   }
   
   p {
-    font-size: 16px;
+    font-size: 18px;
   }
   
   .tab-label {
@@ -126,6 +126,6 @@ p {
   }
   
   .adobe-icon {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
