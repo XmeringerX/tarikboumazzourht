@@ -95,7 +95,7 @@ p {
 /* Mobile Styles */
 @media screen and (max-width: 1000px) {
   body {
-    background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-lukestackpoole5-tumpak-sewu-job571-2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=22cf9945864b95d02fde4865a9458116');
+    background-image: url('https://img.lovepik.com/background/20211030/medium/lovepik-changbai-mountain-natural-scenery-mobile-phone-background-image_400372382.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -106,26 +106,35 @@ p {
   }
   
   h1 {
-    font-size: 28px;
+    font-size: 40px;
   }
   
   h2 {
-    font-size: 24px;
+    font-size: 60px;
   }
   
   p {
-    font-size: 18px;
+    font-size: 40px;
   }
   
   .tab-label {
-    padding: 8px 16px;
+    padding: 20px 40px;
   }
   
   .social-links {
-    margin-top: 10px;
+    margin-top: 40px;
   }
   
   .adobe-icon {
-    font-size: 12px;
+    font-size: 30px;
+  }
+  
+  .tab-content p,
+  .tab-content ul li {
+    font-size: 30px;
+  }
+  
+  .social-links a {
+    font-size: 30px;
   }
 }
